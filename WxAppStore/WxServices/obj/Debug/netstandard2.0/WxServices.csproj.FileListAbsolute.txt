@@ -1,0 +1,15 @@
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\WxServices.deps.json
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\WxServices.dll
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.AssemblyInfoInputs.cache
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.AssemblyInfo.cs
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\WxServices.pdb
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.dll
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.pdb
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\WxDBUtils.dll
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\WxDBUtils.pdb
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\WxDBUtils.dll.config
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.csprojAssemblyReference.cache
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.csproj.CopyComplete
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\CommonUtils.dll
+E:\WXAPP\WxAppStore\WxServices\bin\Debug\netstandard2.0\CommonUtils.pdb
+E:\WXAPP\WxAppStore\WxServices\obj\Debug\netstandard2.0\WxServices.csproj.CoreCompileInputs.cache

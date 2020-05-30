@@ -1,0 +1,7 @@
+E:\WXAPP\WxAppStore\WxDBUtils\bin\Debug\WxDBUtils.dll
+E:\WXAPP\WxAppStore\WxDBUtils\bin\Debug\WxDBUtils.pdb
+E:\WXAPP\WxAppStore\WxDBUtils\obj\Debug\WxDBUtils.dll
+E:\WXAPP\WxAppStore\WxDBUtils\obj\Debug\WxDBUtils.pdb
+E:\WXAPP\WxAppStore\WxDBUtils\bin\Debug\WxDBUtils.dll.config
+E:\WXAPP\WxAppStore\WxDBUtils\obj\Debug\WxDBUtils.csprojAssemblyReference.cache
+E:\WXAPP\WxAppStore\WxDBUtils\obj\Debug\WxDBUtils.csproj.CoreCompileInputs.cache

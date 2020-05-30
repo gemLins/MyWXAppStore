@@ -1,0 +1,6 @@
+E:\WXAPP\WxAppStore\CommonUtils\bin\Debug\CommonUtils.dll
+E:\WXAPP\WxAppStore\CommonUtils\bin\Debug\CommonUtils.pdb
+E:\WXAPP\WxAppStore\CommonUtils\obj\Debug\CommonUtils.csprojAssemblyReference.cache
+E:\WXAPP\WxAppStore\CommonUtils\obj\Debug\CommonUtils.dll
+E:\WXAPP\WxAppStore\CommonUtils\obj\Debug\CommonUtils.pdb
+E:\WXAPP\WxAppStore\CommonUtils\obj\Debug\CommonUtils.csproj.CoreCompileInputs.cache
